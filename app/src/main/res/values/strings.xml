@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Drawables-Dunets-L18</string>
+    <string name="gradient_button">Gradient</string>
+    <string name="animation_button">Animation</string>
+    <string name="magic_button">Magic</string>
+    <string name="load_button">Load</string>
+</resources>
